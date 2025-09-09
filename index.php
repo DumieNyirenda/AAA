@@ -1377,7 +1377,7 @@ include 'backend/config/Database.php';
               <div class="card-body">
                 <div class="d-flex gap-2">
                   <a href="https://www.linkedin.com/company/access-ability-africa-limited/posts/?feedView=all"><button class="btn btn-outline-primary">LinkedIn</button></a>
-                  <button class="btn btn-outline-primary">Facebook</button>
+                  <a href="https://www.facebook.com/profile.php?id=100075875652042"><button class="btn btn-outline-primary">Facebook</button></a>
                                     <a href="https://wa.me/265991076803" target="_blank" class="btn btn-outline-primary">WhatsApp</a>
                 </div>
               </div>
