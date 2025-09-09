@@ -1877,6 +1877,7 @@ include 'backend/config/Database.php';
             <span class="opacity-50">|</span>
             <a href="#privacy" class="text-decoration-none" style="color: #fff;">Privacy Policy</a>
             <a href="#terms" class="text-decoration-none" style="color: #fff;">Terms of Service</a>
+            <a href="login.php" class="btn btn-outline-light btn-sm ms-3">Admin Login</a>
           </div>
         </div>
       </div>
